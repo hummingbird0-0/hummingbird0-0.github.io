@@ -1,0 +1,34 @@
+body{
+    background-color:#fee197;
+    text-align: left;
+    font-family: 'ヒラギノ丸ゴ ProN','Hiragino Maru Gothic ProN',sans-serif;
+    font-size:15pt;
+    margin:100px;
+}
+
+#photo{
+    text-align: center;
+    margin-top: 50px;
+}
+.ammonyaites{
+    height:200px; 
+    width:auto;
+}
+
+#one{
+    background-color: #9BD4D0;
+    padding: 30px;
+    margin-top: 50px;
+    color:white;
+    border-radius: 30px;
+
+}
+#two{
+    background-color: #FFC0CB;
+    padding: 30px;
+    margin-top: 50px;
+    color:white;
+    border-radius: 30px;
+
+
+}
